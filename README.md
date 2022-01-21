@@ -129,10 +129,8 @@ Esto puede suceder porque no se copia adecuadamente la ruta de los archivos en e
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94633259/150557919-751249be-8e57-4755-b360-8212c71e920d.png" />
+  <img src="https://user-images.githubusercontent.com/94633259/150559973-46e3bddf-5672-4c19-a3cf-e4b8705235cb.png" />
 </p>
-
-
 
 
 
