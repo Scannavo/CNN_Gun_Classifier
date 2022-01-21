@@ -36,9 +36,24 @@ Una vez tengamos todo eso, empezamos a darle click en la region que queremos det
   <img src="https://user-images.githubusercontent.com/94633259/150451516-1d0a5e65-f8cb-475d-aed9-feaa477f7ec2.png" />
 </p>
 
+Una vez tengamos anotada todas nuestras imagenes procederemos a descargar el .json, para eso realizamos los siguientes pasos...
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150453348-1d747c5a-69cc-4769-b0b5-4dedb7eaa694.png" />
+</p>
 
 
 # 2 Sistemas de archivos
+
+Ahora que tenemos las anotaciones vamos a crear nuestra sistemas de archivos del Dataset, el cual esta conformado por una carpeta madre llamada Dataset, con dos carpetas dentro, que las llamaremos val y train, que a la vez tendras imagenes y sus respectivos .json, es importante recalcar que las imagenes son diferentes en las dos carpetas, un 80% en train y 20% en el de val
+
+- Dataset
+  - val
+    - image_val.jpg
+    - gun_region_json.jpg
+  - train
+    - image_train.jpg
+    - gun_region_json.jpg
+
 # 3 Subir a google drive
 # 4 Entorno del proyecto (Google colab)
