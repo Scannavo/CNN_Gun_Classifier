@@ -117,3 +117,10 @@ Esto puede suceder porque no se copia adecuadamente la ruta de los archivos en e
 ## No encuentra el directorio logs/XXXXXXXXXX/xxxx.h5
 
 Cuando ejecutamos la primera parte de todo el libro del codigo, esto crea una carpeta que se llama "logs", en esta carpeta al navega a la ultima subcarpeta nos encontramos con un archivo que es formato .h5, se copia la ruta de este archivo a donde lo necesite
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150553963-76726f35-858b-454a-9e35-d86b98ec26dd.png" />
+</p>
+
+
+
