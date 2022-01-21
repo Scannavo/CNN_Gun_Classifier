@@ -1,7 +1,26 @@
 # CNN_Gun_Classifier
 Este repositorio contiene el proyecto de de R-CNN donde detectamos la aparición de armas de fuego en la imagen 
 
-# 1 Anotación de imagenes
+# 1 Descargamos los archivos actuales
+
+Descarguen/Clonen el proyecto actual y tengan todos sus archivos, al final tenemos estos 3 archivos...
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150457131-9755314b-37c7-48da-9a35-46b2742653e2.png" />
+</p>
+
+# 2 Descargar el R_CNN_coco
+
+En el siguiente link podemos descargar esa mascara, importante para el proyecto: 
+https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
+
+y luego lo agregamos a la carpeta del proyecto, de la siguiente forma...
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150457464-78682350-ca14-4b74-b9b0-b972f65b806a.png" />
+</p>
+
+# 2 Anotación de imagenes
 
 Para empezar, necesitamos anotar nuestras propias imagenes para el proyecto, para eso visitaremos la pagina web https://www.robots.ox.ac.uk/~vgg/software/via/ y bajamos entramos en el siguiente apartado, el cual es una pagina web y asi no tendremos que instalar extras...
 
@@ -57,3 +76,4 @@ Ahora que tenemos las anotaciones vamos a crear nuestra sistemas de archivos del
 
 # 3 Subir a google drive
 # 4 Entorno del proyecto (Google colab)
+
