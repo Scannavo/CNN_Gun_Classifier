@@ -37,8 +37,22 @@ Una vez hayamos cargado el proyecto a google drive, iremos a file, abriremos un 
   <img src="https://user-images.githubusercontent.com/94633259/150458265-d40dd257-3251-448b-993e-301e2c0f8fe9.png" />
 </p>
 
+## Mejorar el rendimiento en caso de que vaya muy lento el entrenamiento
 
-# 4 Anotación de imagenes
+Aqui cambiamos el "Hardware accelerator por GPU, solo en caso de que vaya lento
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150458713-a1393458-50e4-407c-a900-b744b0f22156.png" />
+</p>
+
+# 5 Ejecutar el codigo (Google colab)
+
+Ahora simplemente es ejecutar los bloques del codigo del programa, todos los bloques sin excepción, ya las demas anotaciones estan en
+
+
+
+# Puntos a considerar
+##  Anotación de imagenes
 
 Para empezar, necesitamos anotar nuestras propias imagenes para el proyecto, para eso visitaremos la pagina web https://www.robots.ox.ac.uk/~vgg/software/via/ y bajamos entramos en el siguiente apartado, el cual es una pagina web y asi no tendremos que instalar extras...
 
@@ -80,7 +94,7 @@ Una vez tengamos anotada todas nuestras imagenes procederemos a descargar el .js
 </p>
 
 
-# 5 Sistemas de archivos
+## Sistemas de archivos
 
 Ahora que tenemos las anotaciones vamos a crear nuestra sistemas de archivos del Dataset, el cual esta conformado por una carpeta madre llamada Dataset, con dos carpetas dentro, que las llamaremos val y train, que a la vez tendras imagenes y sus respectivos .json, es importante recalcar que las imagenes son diferentes en las dos carpetas, un 80% en train y 20% en el de val
 
