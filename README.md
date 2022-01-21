@@ -3,9 +3,10 @@ Este repositorio contiene el proyecto de de R-CNN donde detectamos la aparición
 
 # 1 Descargamos los archivos actuales
 
-Descarguen/Clonen el proyecto actual y tengan todos sus archivos, al final tenemos estos 3 archivos...
+Descarguen/Clonen el proyecto actual y tengan todos sus archivos,  donde tendremos la carpeta que contiene a todos estos archivos que se llama "RCNN_Gun" al final tenemos estos 3 archivos dentro...
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150459319-3962a87a-60f1-479f-ae95-96688a0a7201.png" />
   <img src="https://user-images.githubusercontent.com/94633259/150457131-9755314b-37c7-48da-9a35-46b2742653e2.png" />
 </p>
 
@@ -47,7 +48,7 @@ Aqui cambiamos el "Hardware accelerator por GPU, solo en caso de que vaya lento
 
 # 5 Ejecutar el codigo (Google colab)
 
-Ahora simplemente es ejecutar los bloques del codigo del programa, todos los bloques sin excepción, ya las demas anotaciones estan en
+Ahora simplemente es ejecutar los bloques del codigo del programa, todos los bloques sin excepción, ya las demas anotaciones estan en el mismo colab
 
 
 
