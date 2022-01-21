@@ -116,11 +116,24 @@ Esta carpeta sirve para poner imagenes fuera de las que hemos usado para el entr
 
 ## No encuentra el directorio
 
-Esto puede suceder porque no se copia adecuadamente la ruta de los archivos en el codigo
+Esto puede suceder porque no se copia adecuadamente la ruta de los archivos en el codigo, para eso realizamos los siguientes paso siempre y cuando hayas agregado el proyecto a drive, y haz corrido el codigo del principio que importa drive a google colab
+
+- 1: Primero ubicamos todas esas rutas que pueden haber cambiado, porque pueden ser diferentes para todos
+- 2: A la en google colab encontramos un icono de carpeta y le damos "click"
+- 3: Luego se abrira un espacio, donde tendremos uns carpetas y entramos a esa que dice drive, y luego buscamos dentro nuestro proyecto "RCNN_GUN" o el nombre con lo que lo guardaron
+- 4: Luego nos ubicamos al pasar el cursor por la carpeta encontramos 3 puntos, le damos click
+- 5: Y luego nos sale una lista de opciones y presionamos el que dice "Copy path" y ya podriamos cambiar nuestra dirección
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94633259/150556487-33645df5-cc5d-4cc8-8ebd-05f0296b40d4.png" />
+  <img src="https://user-images.githubusercontent.com/94633259/150557136-08ca5494-dd4b-4d12-bcb5-8651de37ea99.png" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150557919-751249be-8e57-4755-b360-8212c71e920d.png" />
+</p>
+
+
+
 
 
 
