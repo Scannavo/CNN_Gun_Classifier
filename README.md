@@ -108,15 +108,25 @@ Ahora que tenemos las anotaciones vamos a crear nuestra sistemas de archivos del
     - gun_region_json.jpg
 
 
+## Carpeta prueba dentro de Dataset
+
+Esta carpeta sirve para poner imagenes fuera de las que hemos usado para el entrenamiento y validación, donde pondremos nuevas imagenes y las probaremos con la segunda parte del codigo
+
 # Posibles errores 
 
 ## No encuentra el directorio
 
 Esto puede suceder porque no se copia adecuadamente la ruta de los archivos en el codigo
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150556487-33645df5-cc5d-4cc8-8ebd-05f0296b40d4.png" />
+</p>
+
+
+
 ## No encuentra el directorio logs/XXXXXXXXXX/xxxx.h5
 
-Cuando ejecutamos la primera parte de todo el libro del codigo, esto crea una carpeta que se llama "logs", en esta carpeta al navega a la ultima subcarpeta nos encontramos con un archivo que es formato .h5, se copia la ruta de este archivo a donde lo necesite
+Cuando ejecutamos la primera parte de todo el libro del codigo, esto crea una carpeta que se llama "logs", en esta carpeta al navegar a la ultima subcarpeta nos encontramos con un archivo que es formato .h5, se copia la ruta de este archivo a donde lo necesite, usualmente aparecen mas de uno, habitualmente se usa el ultimo o el que mejor resultados de en lo que llamamos "loss"
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94633259/150553963-76726f35-858b-454a-9e35-d86b98ec26dd.png" />
