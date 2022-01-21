@@ -20,7 +20,25 @@ y luego lo agregamos a la carpeta del proyecto, de la siguiente forma...
   <img src="https://user-images.githubusercontent.com/94633259/150457464-78682350-ca14-4b74-b9b0-b972f65b806a.png" />
 </p>
 
-# 2 Anotación de imagenes
+# 3 Subir a google drive
+
+Una vez tenemos ya la carpeta con los archivos necesarios, subimos la carpeta del proyecto al google drive, para poder trabajar con google colab, entonces damos a nuevo y subimos la carpeta...
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150457913-fd3b67e7-372a-411f-b70d-f563d4e17a58.png" />
+</p>
+
+
+# 4 Entorno del proyecto (Google colab)
+
+Una vez hayamos cargado el proyecto a google drive, iremos a file, abriremos un notebook, y buscaremos en Google Drive el archivo que se llama RCNN.ipynb
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150458265-d40dd257-3251-448b-993e-301e2c0f8fe9.png" />
+</p>
+
+
+# 4 Anotación de imagenes
 
 Para empezar, necesitamos anotar nuestras propias imagenes para el proyecto, para eso visitaremos la pagina web https://www.robots.ox.ac.uk/~vgg/software/via/ y bajamos entramos en el siguiente apartado, el cual es una pagina web y asi no tendremos que instalar extras...
 
@@ -62,7 +80,7 @@ Una vez tengamos anotada todas nuestras imagenes procederemos a descargar el .js
 </p>
 
 
-# 2 Sistemas de archivos
+# 5 Sistemas de archivos
 
 Ahora que tenemos las anotaciones vamos a crear nuestra sistemas de archivos del Dataset, el cual esta conformado por una carpeta madre llamada Dataset, con dos carpetas dentro, que las llamaremos val y train, que a la vez tendras imagenes y sus respectivos .json, es importante recalcar que las imagenes son diferentes en las dos carpetas, un 80% en train y 20% en el de val
 
@@ -74,6 +92,4 @@ Ahora que tenemos las anotaciones vamos a crear nuestra sistemas de archivos del
     - image_train.jpg
     - gun_region_json.jpg
 
-# 3 Subir a google drive
-# 4 Entorno del proyecto (Google colab)
 
