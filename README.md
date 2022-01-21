@@ -29,6 +29,13 @@ Una vez tengamos las imagenes cargadas, lo siguiente es modificar el algunas opc
   <img src="https://user-images.githubusercontent.com/94633259/150450686-e0d26696-32d9-4275-9ce0-f499d05cf751.png" />
 </p>
 
+Una vez tengamos todo eso, empezamos a darle click en la region que queremos detectar,cuando ya tengamos la forma que queremos damos enter y presionamos escape, para luego presionar la forma y poder seleccionar nuestro ID, el cual se llama "Gun"
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94633259/150451302-dd0a1688-e65f-415e-817b-f3254690d518.png" />
+  <img src="https://user-images.githubusercontent.com/94633259/150451516-1d0a5e65-f8cb-475d-aed9-feaa477f7ec2.png" />
+</p>
+
 
 
 
