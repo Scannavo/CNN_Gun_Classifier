@@ -108,3 +108,12 @@ Ahora que tenemos las anotaciones vamos a crear nuestra sistemas de archivos del
     - gun_region_json.jpg
 
 
+# Posibles errores 
+
+## No encuentra el directorio
+
+Esto puede suceder porque no se copia adecuadamente la ruta de los archivos en el codigo
+
+## No encuentra el directorio logs/XXXXXXXXXX/xxxx.h5
+
+Cuando ejecutamos la primera parte de todo el libro del codigo, esto crea una carpeta que se llama "logs", en esta carpeta al navega a la ultima subcarpeta nos encontramos con un archivo que es formato .h5, se copia la ruta de este archivo a donde lo necesite
