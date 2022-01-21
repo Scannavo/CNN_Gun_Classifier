@@ -32,10 +32,10 @@ Una vez tenemos ya la carpeta con los archivos necesarios, subimos la carpeta de
 
 # 4 Entorno del proyecto (Google colab)
 
-Una vez hayamos cargado el proyecto a google drive, iremos a file, abriremos un notebook, y buscaremos en Google Drive el archivo que se llama RCNN.ipynb
+Una vez hayamos cargado el proyecto a google drive, iremos a file, abriremos un notebook, y buscaremos el archivo que se llama RCNN.ipynb y lo abriremos ahi
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94633259/150458265-d40dd257-3251-448b-993e-301e2c0f8fe9.png" />
+  <img src="https://user-images.githubusercontent.com/94633259/150467288-f24dd9cf-ed2b-4e51-b9e4-336a5c36ab68.png" />
 </p>
 
 ## Mejorar el rendimiento en caso de que vaya muy lento el entrenamiento
