@@ -1,4 +1,4 @@
-# CNN_Gun_Classifier
+# R_CNN_Gun_Classifier
 Este repositorio contiene el proyecto de R-CNN donde detectamos la aparición de armas de fuego en la imagen 
 
 # 1 Descargamos los archivos actuales
